@@ -212,6 +212,10 @@ footer{
     margin-bottom: 10px;
 }
 
+.block-2 a{
+    color: white;
+}
+
 .nav-footer{
     padding-top: 50px;
 }
